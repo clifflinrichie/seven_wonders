@@ -1,0 +1,13 @@
+# Rulebook reference (copyrighted, not project code)
+7wonderrules.pdf
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Claude
+CLAUDE.md
